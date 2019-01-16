@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547618088761.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B791DE06",
+    "lastKnownWriteTime" : 1547620502,
+    "last_content_update" : 1547620502951,
+    "path" : "~/R/Course 4 - week 1 project/ExData_Plotting/plot3.R",
+    "project_path" : "plot3.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
